@@ -1,0 +1,26 @@
+[
+  {
+    "id": "UID1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "age": 32
+  },
+  {
+    "id": "UID2",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "age": 14
+  },
+  {
+    "id": "UID3",
+    "firstName": "John",
+    "lastName": "Smith",
+    "age": 52
+  },
+  {
+    "id": "UID4",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "age": 42
+  }
+]
